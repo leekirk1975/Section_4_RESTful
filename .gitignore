@@ -1,0 +1,8 @@
+#directories
+venv/
+Data/
+.idea/
+bin/
+lib/
+#specific files
+pyvenv.cfg
